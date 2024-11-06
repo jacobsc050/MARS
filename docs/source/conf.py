@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MARS Coding Tutorials '
+copyright = '2024, Christopher Jacobs'
+author = 'Christopher Jacobs'
 
 release = '0.1'
 version = '0.1.0'
