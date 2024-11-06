@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'MARS Coding Tutorials '
+project = 'MARS Coding Tutorials'
 copyright = '2024, Christopher Jacobs'
 author = 'Christopher Jacobs'
 
