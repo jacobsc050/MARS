@@ -13,7 +13,6 @@ Contents
 
 .. toctree::
 
-   install
+   Step 1: Installation
    usage
-   api
    

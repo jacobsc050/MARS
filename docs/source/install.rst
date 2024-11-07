@@ -1,4 +1,4 @@
-install
+Step 1: Installation
 ====
 
 .. _installation:
