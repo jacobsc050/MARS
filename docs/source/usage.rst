@@ -1,4 +1,4 @@
-Usage
+Step 2: Test Bench
 =====
 
 .. _installation:
